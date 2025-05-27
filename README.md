@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me Private Message me here
+- 📫 How to reach me Private Message on Facebook: Jhommuel Pastorall
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I dont know 
 
