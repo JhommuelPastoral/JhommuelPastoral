@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 👀 Into **Full Stack Development, IoT, and AI Systems**
-- 🌱 Currently learning **Full Stack (React, Next.js, Prisma, MySQL)**
+- 🌱 Currently learning **Full Stack (React, Next.js, Prisma, MySQL, MongoDB)**
 - 🔧 Building with **ESP8266 / ESP32, RFID, and real-time systems**
 - 🤖 Exploring **AI (YOLOv8), computer vision, and automation**
 
@@ -17,7 +17,7 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,mongodb" />
 </p>
 
 ### 🔌 IoT & Hardware
