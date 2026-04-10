@@ -42,10 +42,10 @@ I'm a developer passionate about building everything from responsive web apps to
 ---
 
 ### 📌 Featured Projects
-* 🚍 **[Jeepney Route Guide System](jeepta.online)** - A navigation app tailored for Davao City commuters.
-* 🔥 **[AI Fire Detection System](Thesis)** - Real-time fire detection utilizing YOLOv8, motion tracking, and filtering.
-* 🌐 **[LinkUp](https://linkup-wxs3.onrender.com/)** - A real-time social media web application inspired by X, enabling users to share posts, engage in discussions, and connect with communities.
-* 🎬 **[Streamify](https://stream-y04h.onrender.com)** - A scalable streaming platform concept focused on intuitive content discovery and a smooth user experience.
+* 🚍 **[Jeepney Route Guide System](www.jeepta.online)** - A navigation app tailored for Davao City commuters - www.jeepta.online.
+* 🔥 **[AI Fire Detection System](Thesis)** - Real-time fire detection utilizing YOLOv8, motion tracking, and filtering - Thesis.
+* 🌐 **[LinkUp](https://linkup-wxs3.onrender.com/)** - A real-time social media web application inspired by X, enabling users to share posts, engage in discussions, and connect with communities. - https://linkup-wxs3.onrender.com
+* 🎬 **[Streamify](https://stream-y04h.onrender.com)** - A scalable streaming platform concept focused on intuitive content discovery and a smooth user experience. - https://stream-y04h.onrender.com
 
 *(Click the links above to view the source code!)*
 
@@ -54,6 +54,5 @@ I'm a developer passionate about building everything from responsive web apps to
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhommuelPastoral&show_icons=true&theme=tokyonight&hide_border=true" alt="Jhommuel's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JhommuelPastoral&theme=tokyonight&hide_border=true" alt="Jhommuel's GitHub Streak" />
 </div>
