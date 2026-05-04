@@ -41,10 +41,12 @@ I'm a full-stack developer and tech enthusiast passionate about building everyth
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,redis" />
 
 ### IoT, Hardware & AI
-<img src="https://skillicons.dev/icons?i=arduino,opencv" />
-<img src="https://img.shields.io/badge/ESP8266-blue?style=for-the-badge&logo=esphome&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLOv8-red?style=for-the-badge" />
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,opencv" />
+  <img src="https://img.shields.io/badge/ESP8266-blue?style=for-the-badge&logo=esphome&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-red?style=for-the-badge" />
+</p>
 
 ### Libraries & Tools
 <p>
