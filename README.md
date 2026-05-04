@@ -47,12 +47,15 @@ I'm a full-stack developer and tech enthusiast passionate about building everyth
 <img src="https://img.shields.io/badge/YOLOv8-red?style=for-the-badge" />
 
 ### Libraries & Tools
-<img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TanStack_Query-ff4154?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Auth.js-222222?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+### Libraries & Tools
+<p>
+  <img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TanStack_Query-ff4154?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Auth.js-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ---
 
