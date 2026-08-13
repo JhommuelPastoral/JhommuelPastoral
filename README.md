@@ -105,9 +105,11 @@ I'm a full-stack developer and tech enthusiast passionate about building **moder
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/JhommuelPastoral/JhommuelPastoral/snake-output/snake.svg" width="100%" alt="GitHub Contribution Snake" />
-
+  <img
+    src="https://raw.githubusercontent.com/JhommuelPastoral/JhommuelPastoral/gh-pages/snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 </div>
 
 ---
