@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jhommuel Pastoral (@JhommuelPastoral)
+# 👋 Hi, I'm Jhommuel Pastoral / Computer Engineer 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JhommuelPastoral&color=blueviolet&style=for-the-badge" alt="Profile Views" />
